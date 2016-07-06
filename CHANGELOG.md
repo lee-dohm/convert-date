@@ -1,5 +1,5 @@
 # CHANGELOG
 
-## **master** &mdash; *Unreleased*
+## **v0.1.0** &mdash; *Released: 2016-07-06*
 
-* Converts dates
+* Converts selected dates in the active editor
