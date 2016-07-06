@@ -1,0 +1,21 @@
+{
+  "name": "convert-date",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Converts dates from various formats to ISO 8601",
+  "keywords": [
+  ],
+  "repository": "https://github.com/lee-dohm/convert-date",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.8.0 <2.0.0"
+  },
+  "dependencies": {
+    "moment": "^2.14.1"
+  },
+  "devDependencies": {
+    "atom-mocha-test-runner": "0.2.1",
+    "chai": "^3.5.0"
+  },
+  "atomTestRunner": "./spec/runner"
+}
