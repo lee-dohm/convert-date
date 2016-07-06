@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## **master** &mdash; *Unreleased*
+## **v0.1.1** &mdash; *Released: 2016-07-06*
 
 * Notification now displays when an invalid date is selected
 
