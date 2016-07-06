@@ -5,6 +5,9 @@
   "description": "Converts dates from various formats to ISO 8601",
   "keywords": [
   ],
+  "activationCommands": {
+    "atom-text-editor": "convert-date:convert"
+  },
   "repository": "https://github.com/lee-dohm/convert-date",
   "license": "MIT",
   "engines": {
