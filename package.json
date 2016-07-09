@@ -17,7 +17,10 @@
   },
   "devDependencies": {
     "atom-mocha-test-runner": "0.2.1",
-    "chai": "^3.5.0"
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-standard": "^7.0.1",
+    "standard": "^7.1.2"
   },
   "atomTestRunner": "./spec/runner"
 }
